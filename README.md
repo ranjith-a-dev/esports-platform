@@ -138,3 +138,10 @@ npm run dev
 6. Real-time match scheduling and prize distribution
 
 ---
+
+## Live Demo
+
+Frontend: https://esports-platform-fg82.vercel.app/
+Backend API: https://esports-platform-beige.vercel.app/
+
+---
